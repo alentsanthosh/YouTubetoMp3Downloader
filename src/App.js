@@ -18,8 +18,8 @@ console.log(youtubeID)
 method :'get',
 url : 'https://youtube-mp36.p.rapidapi.com/dl',
 headers : {
-  'X-RapidAPI-Key': '631c42854cmsh02e3c92aa1b9c2ep11deacjsn9c342ca70906',
-  'X-RapidAPI-Host': 'youtube-mp36.p.rapidapi.com'
+  'X-RapidAPI-Key': 'your API key',
+  'X-RapidAPI-Host': 'your API host'
 },
 params : {
   id : youtubeID
